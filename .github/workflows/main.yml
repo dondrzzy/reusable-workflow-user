@@ -20,5 +20,5 @@ jobs:
       tag: $GITHUB_RUN_NUMBER
     secrets:
       registry_username: "dondrzzy"
-      registry_password: ${{secrets.REGISTRY_PASSWORD}}
+      registry_password: "#Kop@2020"
 
